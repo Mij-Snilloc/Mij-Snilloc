@@ -1,4 +1,4 @@
-## Olá, eu sou Elias, sou estudante de Front-End e também de Hacking 💙👾.
+## Olá, eu sou Elias, sou estudante de Front-End, e completamente apaixonado pelo mundo Tech 👽💙.
 <div align="center">
   <a href="https://github.com/mij-snilloc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mij-snilloc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
