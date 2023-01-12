@@ -1,8 +1,8 @@
 ## Olá, eu sou Elias, sou estudante de Front-End, e completamente apaixonado pelo mundo Tech 👽💙.
 <div align="center">
   <a href="https://github.com/mij-snilloc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mij-snilloc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mij-snilloc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mij-snilloc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mij-snilloc&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
